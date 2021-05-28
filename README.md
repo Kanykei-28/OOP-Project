@@ -14,5 +14,6 @@ Java, JavaFX 11 (including JavaFX 11 libraries)
 4. Add JavaFx libraries in File->Project Structure
 5. Add VM options "--module-path ${PATH_TO_JAVAFX} --add-modules javafx.controls,javafx.fxml" in "Edit Confidurations" 
 6. Run the App.java file
+7. You can see the "app.png" file to have an idea how the project should look like when runned 
 
 
